@@ -1,4 +1,4 @@
-### Hi there, im Gianfranco Bonanno ✨
+### Hi there, I'm Gianfranco Bonanno ✨
 
 Im a Open Catalonia University student and I'm learning about the mobile app development looking for being specialized in Android development.
 
