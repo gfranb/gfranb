@@ -4,11 +4,11 @@ Im a Open Catalonia University student and I'm learning about the mobile app dev
 
 🌱 I’m currently learning:
 
-    -Kotling development
-    -Android development
-    -Jetpack compose
-    -Room
-    -Dagger hilt
+-Kotling development
+-Android development
+-Jetpack compose
+-Room
+-Dagger hilt
 
 
 <!--
