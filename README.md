@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, im Gianfranco Bonanno ✨
+
+Im a Open Catalonia University student and I'm learning about the mobile app development looking for being specialized in Android development.
+
+🌱 I’m currently learning:
+
+    -Kotling development
+    -Android development
+    -Jetpack compose
+    -Room
+    -Dagger hilt
+
 
 <!--
 **gfranb/gfranb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
