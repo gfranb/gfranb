@@ -7,6 +7,7 @@ Im a Open Catalonia University student and I'm learning about the mobile app dev
     -iOS Development
     -Swift
     -SwiftUI and UIKit
+    -Python
     -Djando and Flask
 
 <!--
