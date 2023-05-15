@@ -1,13 +1,13 @@
 ### Hi there, I'm Gianfranco Bonanno ✨
 
-Im a Open Catalonia University student and I'm learning about the mobile app development and back-end with Spring Framework.
+Im a Open Catalonia University student and I'm learning about the mobile app development and back-end with Python.
 
 🌱 I’m currently learning:
 
-    -Spring Framework
-    -Hibernate
-    -Java PDBC
-    -Angular
+    -iOS Development
+    -Swift
+    -SwiftUI and UIKit
+    -Djando and Flask
 
 <!--
 **gfranb/gfranb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
