@@ -7,9 +7,9 @@
 ### Languages and Technologies:
 
 - Python 🐍 (Django, Flask, FastAPI)
-- C# (.NET Core)
 - JavaScript (Node.js, React)
-- GoLang (Gin)
+- C# (.NET Core) #Learning
+- GoLang (Gin) #Learning
 
 ### Databases:
 
