@@ -2,7 +2,7 @@
 
 **Location:** Barcelona, Spain 🌍
 
-## Backend Developer | Python, C#, JavaScript, Go
+## Backend Developer | Python, JavaScript
 
 ### Languages and Technologies:
 
