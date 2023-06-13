@@ -6,10 +6,8 @@
 
 ### Languages and Technologies:
 
-- Python 🐍 (Django, Flask, FastAPI)
+- Python 🐍 (Django, FastAPI)
 - JavaScript (Node.js, React)
-- C# (.NET Core) #Learning
-- GoLang (Gin) #Learning
 
 ### Databases:
 
@@ -26,7 +24,7 @@
 
 ## Featured Projects:
 
-- 🌐 [Project Name 1](repository link) - Brief description of the project.
+- 🌐 [Project Name 1]([repository link](https://github.com/gfranb/CRUD-Store-Django)) - Brief description of the project.
 - 🌐 [Project Name 2](repository link) - Brief description of the project.
 
 ## Find me at:
