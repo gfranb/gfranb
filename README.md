@@ -24,7 +24,7 @@
 
 ## Featured Projects:
 
-- 🌐 CRUD Store with django([repository link](https://github.com/gfranb/CRUD-Store-Django)) - Django project for practice and demonstrate the basic concepts of Django, including: 
+- 🌐 CRUD Store with django([repository link](https://github.com/gfranb/CRUD-Store-Django)) - Django project for practice and demonstrate the basic concepts of Django, including:         
 🔗 URLs
 🗄️ Models
 👁️ Views
