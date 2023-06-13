@@ -24,7 +24,13 @@
 
 ## Featured Projects:
 
-- 🌐 [Project Name 1]([repository link](https://github.com/gfranb/CRUD-Store-Django)) - Brief description of the project.
+- 🌐 CRUD Store with django([repository link](https://github.com/gfranb/CRUD-Store-Django)) - Django project for practice and demonstrate the basic concepts of Django, including: 
+🔗 URLs
+🗄️ Models
+👁️ Views
+📄 Templates
+📝 Forms
+
 - 🌐 [Project Name 2](repository link) - Brief description of the project.
 
 ## Find me at:
