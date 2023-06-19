@@ -8,7 +8,6 @@
 
 - Python 🐍 (Django, FastAPI)
 - C# ⚙️ (ASP.Net)
-- JavaScript 🌐 (Node.js, React)
 
 ### Databases:
 
