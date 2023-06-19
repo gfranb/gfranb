@@ -7,6 +7,7 @@
 ### Languages and Technologies:
 
 - Python 🐍 (Django, FastAPI)
+- C# (ASP.Net)
 - JavaScript (Node.js, React)
 
 ### Databases:
@@ -14,7 +15,6 @@
 - MySQL 🐬
 - PostgreSQL 🐘
 - MongoDB 🍃
-- Firebase 🔥
 
 ### Languages:
 
