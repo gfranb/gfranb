@@ -6,7 +6,7 @@
 
 ### Languages and Technologies:
 
-- Python 🐍 (Django, FastAPI)
+- Python 🐍 (Django)
 - C# ⚙️ (ASP.Net)
 
 ### Databases:
