@@ -7,7 +7,6 @@
 ### Languages and Technologies:
 
 - Python 🐍 (Django, DRF)
-- C# ⚙️ (ASP.Net)
 
 ### Databases:
 
