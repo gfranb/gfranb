@@ -7,8 +7,8 @@
 ### Languages and Technologies:
 
 - Python 🐍 (Django, DRF)
-- C# (ASP.NET, EF)
-- Java (Spring, Hibernate)
+- C# 🌐 (ASP.NET, EF)
+- Java ☕️ (Spring, Hibernate)
 
 ### Databases:
 
@@ -30,8 +30,6 @@
 👁️Views
 📄Templates
 📝Forms
-
-- 🌐 [Project Name 2](repository link) - Brief description of the project.
 
 ## Find me at:
 
